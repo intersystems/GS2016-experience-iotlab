@@ -5,8 +5,8 @@ For this experience, you will use your laptop to work with a container that prov
 
 # Setup gude
 
-[Read online](Setup.md) or [download](/raw/master/Setup.pdf).
+[Read online](Setup.md) or [download](https://github.com/intersystems/GS2016-experience-iotlab/raw/master/raw/master/Setup.pdf).
 
 # Participation gude
 
-[Read online](Participant’s Guide.md) or [download](/raw/master/Participant%E2%80%99s%20Guide.pdf).
+[Read online](Participant’s Guide.md) or [download](https://github.com/intersystems/GS2016-experience-iotlab/raw/master/raw/master/Participant%E2%80%99s%20Guide.pdf).
